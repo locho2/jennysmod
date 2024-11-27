@@ -430,3 +430,130 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [23:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo has made the advancement [Monster Hunter]
 [23:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> q paso
 [23:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> son flacos
+[23:47:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> un flaco
+[23:47:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> uy
+[23:47:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> no me hizo nada de daño
+[23:47:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> no
+[23:47:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> hay mod para correrme
+[23:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> q rico
+[23:48:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zmesskiii has made the advancement [Stone Age]
+[23:49:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> pera
+[23:49:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> mis teclas
+[23:49:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> se desconfiguraron
+[23:49:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lochoteo lost connection: Disconnected
+[23:49:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo left the game
+[23:49:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ok
+[23:51:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zmesskiii has made the advancement [Getting an Upgrade]
+[23:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zmesskiii has made the advancement [Monster Hunter]
+[23:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> con q tecla me transformo
+[23:52:30] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[23:52:30] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 42 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,mowziesmobs@1.5.8,disenchanter@1.8,hats@7.1.1,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,jei@4.15.0.293,ksyxis@1.3.2,sexmod@1.0,mantle@1.12-1.3.3.55,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,fastbench@1.7.4,securitycraft@v1.9.11,storagedrawers@5.5.2,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,FML@8.0.99.99,conarm@1.2.5.10,llibrary@1.7.9,fastfurnace@1.3.1,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,cosmeticarmorreworked@1.12.2-v5a,letmedespawn@1.0,twilightforest@3.11.1021,dynamictrees@1.12.2-0.9.29,geckolib3@1.0,playerrevive@1.0,morph@7.2.0
+[23:52:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:52:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lochoteo[/100.81.17.14:56128] logged in with entity id 30900 at (79.44335607551673, 67.0, 263.77823793848495)
+[23:52:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo joined the game
+[23:52:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo has made the advancement [Stone Age]
+[23:52:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['lochoteo'/30900, l='world', x=79.44, y=67.00, z=263.78] connected. Sending ping
+[23:52:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> chi
+[23:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> si muero recupero mis cosas con la tumba?
+[23:53:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[23:53:34] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:34] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:35] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zmesskiii is bleeding...
+[23:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> aiuda
+[23:53:46] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:46] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:46] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:47] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> help
+[23:53:51] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:53] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:54] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:54] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by zmesskiii
+[23:53:56] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:57] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:57] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:57] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:57] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:57] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:58] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ayni
+[23:53:58] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:59] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:59] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:53:59] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ayni
+[23:54:00] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ayni
+[23:54:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ayni
+[23:54:00] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:01] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:01] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:02] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:02] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:05] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:05] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ayni
+[23:54:07] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:07] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:07] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:08] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:08] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:08] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:09] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ayni jarjacha
+[23:54:10] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:10] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:10] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:12] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:12] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:13] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:16] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:17] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:17] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:18] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:19] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:19] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ayni
+[23:54:20] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> ayuda
+[23:54:21] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:21] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> help
+[23:54:23] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:24] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:25] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:27] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:28] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:29] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:31] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> 援助
+[23:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> 援助
+[23:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> 援助
+[23:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> 援助
+[23:54:32] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:34] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:35] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> !
+[23:54:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zmesskiii burned to death
+[23:54:40] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:40] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:41] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:42] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:43] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:46] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:49] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:49] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:54:50] [Server thread/INFO] [Morph]: 1xtile.air@0
+[23:55:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> pq tienes 3 cabezas
+[23:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> aja
+[23:55:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> mira dc
+[23:56:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[23:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> L
+[23:56:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> L
+[23:56:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> L
+[23:56:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by zmesskiii
+[23:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo has made the advancement [Getting an Upgrade]
+[23:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> pq tu si puedes
+[23:56:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> agg
