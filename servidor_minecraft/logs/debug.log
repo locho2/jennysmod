@@ -1,0 +1,879 @@
+[01:31:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:31:36] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:31:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:31:36] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[01:31:36] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[01:31:36] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:31:36] [main/DEBUG] [FML]: Java classpath at launch is:
+[01:31:36] [main/DEBUG] [FML]:     /workspaces/jennysmod/servidor_minecraft/forge-1.12.2-14.23.5.2859.jar
+[01:31:36] [main/DEBUG] [FML]: Java library path at launch is:
+[01:31:36] [main/DEBUG] [FML]:     /tmp/_MEIEMpJzA
+[01:31:36] [main/DEBUG] [FML]:     /usr/java/packages/lib/amd64
+[01:31:36] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu/jni
+[01:31:36] [main/DEBUG] [FML]:     /lib/x86_64-linux-gnu
+[01:31:36] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu
+[01:31:36] [main/DEBUG] [FML]:     /usr/lib/jni
+[01:31:36] [main/DEBUG] [FML]:     /lib
+[01:31:36] [main/DEBUG] [FML]:     /usr/lib
+[01:31:36] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /workspaces/jennysmod/servidor_minecraft/libraries
+[01:31:36] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods
+[01:31:36] [main/DEBUG] [FML]: Examining file: mowziesmobs_1.12.2_1.5.8.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: disenchanter[1.12]1.8.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Xaeros_Minimap_24.6.1_Forge_1.12.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Waystones_1.12.2-4.1.0.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Clumps-3.1.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: conarm-1.12.2-1.2.5.10.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Jenny-Mod-Forge-1.12.2-v1.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: TravelersBackpack-1.12.2-1.0.35.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: PlayerRevive_v1.2.40_mc1.12.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: llibrary-1.7.9-1.12.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: DynamicTrees-1.12.2-0.9.29.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: gravestone-1.10.3.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Hats-1.12.2-7.1.1.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: FpsReducer-mc1.12.2-1.20.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.15.0.293.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Ksyxis-1.3.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: MyServerIsCompatible-1.12.2-1.0.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: FastFurnace-1.12.2-1.3.1.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: CosmeticArmorReworked-1.12.2-v5a.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: FastWorkbench-1.12.2-1.7.4.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Hwyla-1.8.26-B41_1.12.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Chameleon-1.12-4.1.3.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Morph-1.12.2-7.2.1.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Mantle-1.12-1.3.3.55.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: OptiFine_1.12.2_HD_U_E3.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: ChunkAnimator-1.12.2-1.2.1.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: twilightforest-1.12.2-3.11.1021-universal.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: StorageDrawers-1.12.2-5.5.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: letmedespawn-1.12.2-forge-1.0.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: TConstruct-1.12.2-2.13.0.183.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: BetterFps-1.4.8.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: iChunUtil-1.12.2-7.2.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: Vampirism-1.12.2-1.6.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: [1.12.2] SecurityCraft v1.9.11.jar
+[01:31:36] [main/DEBUG] [FML]: Examining file: CreativeCore_v1.10.71_mc1.12.2.jar
+[01:31:36] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[01:31:36] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[01:31:36] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:31:36] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[01:31:36] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[01:31:36] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[01:31:36] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[01:31:36] [main/DEBUG] [FML]: Discovering coremods
+[01:31:36] [main/INFO] [FML]: Searching /workspaces/jennysmod/servidor_minecraft/./mods for mods
+[01:31:36] [main/DEBUG] [FML]:   Adding mowziesmobs_1.12.2_1.5.8.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding disenchanter[1.12]1.8.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Xaeros_Minimap_24.6.1_Forge_1.12.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Waystones_1.12.2-4.1.0.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Clumps-3.1.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding conarm-1.12.2-1.2.5.10.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Jenny-Mod-Forge-1.12.2-v1.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding TravelersBackpack-1.12.2-1.0.35.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding PlayerRevive_v1.2.40_mc1.12.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding llibrary-1.7.9-1.12.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding DynamicTrees-1.12.2-0.9.29.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding gravestone-1.10.3.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Hats-1.12.2-7.1.1.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding FpsReducer-mc1.12.2-1.20.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.15.0.293.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Ksyxis-1.3.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding MyServerIsCompatible-1.12.2-1.0.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding FastFurnace-1.12.2-1.3.1.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding CosmeticArmorReworked-1.12.2-v5a.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding FastWorkbench-1.12.2-1.7.4.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Hwyla-1.8.26-B41_1.12.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Chameleon-1.12-4.1.3.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Morph-1.12.2-7.2.1.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Mantle-1.12-1.3.3.55.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding OptiFine_1.12.2_HD_U_E3.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding ChunkAnimator-1.12.2-1.2.1.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding twilightforest-1.12.2-3.11.1021-universal.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding StorageDrawers-1.12.2-5.5.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding letmedespawn-1.12.2-forge-1.0.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding TConstruct-1.12.2-2.13.0.183.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding BetterFps-1.4.8.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding iChunUtil-1.12.2-7.2.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding Vampirism-1.12.2-1.6.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding [1.12.2] SecurityCraft v1.9.11.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]:   Adding CreativeCore_v1.10.71_mc1.12.2.jar to the mod list
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy [1.12.2] SecurityCraft v1.9.11.jar
+[01:31:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.11.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy BetterFps-1.4.8.jar
+[01:31:36] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Chameleon-1.12-4.1.3.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Chameleon-1.12-4.1.3.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy ChunkAnimator-1.12.2-1.2.1.jar
+[01:31:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class LoadingPlugin
+[01:31:36] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:31:36] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod LoadingPlugin
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Clumps-3.1.2.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Clumps-3.1.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy conarm-1.12.2-1.2.5.10.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in conarm-1.12.2-1.2.5.10.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy CosmeticArmorReworked-1.12.2-v5a.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in CosmeticArmorReworked-1.12.2-v5a.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy CreativeCore_v1.10.71_mc1.12.2.jar
+[01:31:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class CreativePatchingLoader
+[01:31:36] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:31:36] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod CreativePatchingLoader
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy disenchanter[1.12]1.8.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in disenchanter[1.12]1.8.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy DynamicTrees-1.12.2-0.9.29.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in DynamicTrees-1.12.2-0.9.29.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy FastFurnace-1.12.2-1.3.1.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in FastFurnace-1.12.2-1.3.1.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy FastWorkbench-1.12.2-1.7.4.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in FastWorkbench-1.12.2-1.7.4.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy FpsReducer-mc1.12.2-1.20.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in FpsReducer-mc1.12.2-1.20.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy gravestone-1.10.3.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in gravestone-1.10.3.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Hats-1.12.2-7.1.1.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Hats-1.12.2-7.1.1.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Hwyla-1.8.26-B41_1.12.2.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Hwyla-1.8.26-B41_1.12.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy iChunUtil-1.12.2-7.2.2.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in iChunUtil-1.12.2-7.2.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.15.0.293.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.15.0.293.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Jenny-Mod-Forge-1.12.2-v1.2.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Jenny-Mod-Forge-1.12.2-v1.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Ksyxis-1.3.2.jar
+[01:31:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Ksyxis-1.3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class KsyxisLegacyForge
+[01:31:36] [main/WARN] [FML]: The coremod ru.vidtu.ksyxis.loaders.KsyxisLegacyForge does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:31:36] [main/WARN] [FML]: The coremod KsyxisLegacyForge (ru.vidtu.ksyxis.loaders.KsyxisLegacyForge) is not signed!
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod KsyxisLegacyForge
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy letmedespawn-1.12.2-forge-1.0.2.jar
+[01:31:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in letmedespawn-1.12.2-forge-1.0.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class CoreMod
+[01:31:36] [main/TRACE] [FML]: coremod named Let Me Despawn is loading
+[01:31:36] [main/DEBUG] [FML]: The coremod com.frikinjay.letmedespawn.core.CoreMod requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[01:31:36] [main/WARN] [FML]: The coremod Let Me Despawn (com.frikinjay.letmedespawn.core.CoreMod) is not signed!
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod Let Me Despawn
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy llibrary-1.7.9-1.12.2.jar
+[01:31:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in llibrary-1.7.9-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class LLibraryPlugin
+[01:31:36] [main/TRACE] [FML]: coremod named llibrary is loading
+[01:31:36] [main/DEBUG] [FML]: The coremod net.ilexiconn.llibrary.server.core.plugin.LLibraryPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[01:31:36] [main/WARN] [FML]: The coremod llibrary (net.ilexiconn.llibrary.server.core.plugin.LLibraryPlugin) is not signed!
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod llibrary
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Mantle-1.12-1.3.3.55.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Mantle-1.12-1.3.3.55.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Morph-1.12.2-7.2.1.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Morph-1.12.2-7.2.1.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy mowziesmobs_1.12.2_1.5.8.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in mowziesmobs_1.12.2_1.5.8.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy MyServerIsCompatible-1.12.2-1.0.jar
+[01:31:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy OptiFine_1.12.2_HD_U_E3.jar
+[01:31:36] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy PlayerRevive_v1.2.40_mc1.12.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy StorageDrawers-1.12.2-5.5.2.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in StorageDrawers-1.12.2-5.5.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy TConstruct-1.12.2-2.13.0.183.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in TConstruct-1.12.2-2.13.0.183.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy TravelersBackpack-1.12.2-1.0.35.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in TravelersBackpack-1.12.2-1.0.35.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy twilightforest-1.12.2-3.11.1021-universal.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in twilightforest-1.12.2-3.11.1021-universal.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Vampirism-1.12.2-1.6.2.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Vampirism-1.12.2-1.6.2.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Waystones_1.12.2-4.1.0.jar
+[01:31:36] [main/DEBUG] [FML]: Not found coremod data in Waystones_1.12.2-4.1.0.jar
+[01:31:36] [main/DEBUG] [FML]: Examining for coremod candidacy Xaeros_Minimap_24.6.1_Forge_1.12.jar
+[01:31:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.6.1_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class XaeroMinimapPlugin
+[01:31:36] [main/DEBUG] [FML]: The coremod xaero.common.core.XaeroMinimapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[01:31:36] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod XaeroMinimapPlugin
+[01:31:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:36] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[01:31:36] [main/DEBUG] [mixin]: Mixin bootstrap service org.spongepowered.asm.service.modlauncher.MixinServiceModLauncherBootstrap is not available: ModLauncher is not available
+[01:31:36] [main/DEBUG] [mixin]: MixinService [LaunchWrapper] was successfully booted in sun.misc.Launcher$AppClassLoader@135fbaa4
+[01:31:36] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar Service=LaunchWrapper Env=SERVER
+[01:31:36] [main/DEBUG] [mixin]: Error cleaning class output directory: .mixin.out
+[01:31:36] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #1
+[01:31:36] [main/DEBUG] [mixin]: Initialising Mixin Platform Manager
+[01:31:36] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:36] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:36] [main/DEBUG] [mixin]: ForceLoadAsMod was specified for [1.12.2] SecurityCraft v1.9.11.jar, attempting force-load
+[01:31:36] [main/DEBUG] [mixin]: Adding [1.12.2] SecurityCraft v1.9.11.jar to reparseable coremod collection
+[01:31:36] [main/DEBUG] [mixin]: [1.12.2] SecurityCraft v1.9.11.jar has core plugin net.geforcemods.securitycraft.SecurityCraftLoadingPlugin. Injecting it into FML for co-initialisation:
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class SecurityCraftLoadingPlugin
+[01:31:36] [main/DEBUG] [FML]: The coremod net.geforcemods.securitycraft.SecurityCraftLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[01:31:36] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[01:31:36] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod SecurityCraftLoadingPlugin
+[01:31:36] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:36] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:36] [main/DEBUG] [mixin]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:36] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:36] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/forge-1.12.2-14.23.5.2859.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/BetterFps-1.4.8.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/ChunkAnimator-1.12.2-1.2.1.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/CreativeCore_v1.10.71_mc1.12.2.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/Ksyxis-1.3.2.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/letmedespawn-1.12.2-forge-1.0.2.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/llibrary-1.7.9-1.12.2.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/OptiFine_1.12.2_HD_U_E3.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/Xaeros_Minimap_24.6.1_Forge_1.12.jar for mixin tweaker
+[01:31:36] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:36] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:36] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:36] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:36] [main/DEBUG] [mixin]: ForceLoadAsMod was specified for MyServerIsCompatible-1.12.2-1.0.jar, attempting force-load
+[01:31:36] [main/DEBUG] [mixin]: Adding MyServerIsCompatible-1.12.2-1.0.jar to reparseable coremod collection
+[01:31:36] [main/DEBUG] [mixin]: MyServerIsCompatible-1.12.2-1.0.jar has core plugin com.focamacho.myserveriscompatible.asm.MSICCoreMod. Injecting it into FML for co-initialisation:
+[01:31:36] [main/DEBUG] [FML]: Instantiating coremod class MSICCoreMod
+[01:31:36] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:31:36] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
+[01:31:36] [main/DEBUG] [FML]: Enqueued coremod MSICCoreMod
+[01:31:36] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:36] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:36] [main/DEBUG] [mixin]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:36] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:36] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:36] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[01:31:36] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[01:31:36] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[01:31:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:31:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:36] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[01:31:36] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[01:31:36] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[01:31:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:36] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[01:31:36] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[01:31:36] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[01:31:36] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[01:31:36] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[01:31:36] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[01:31:36] [main/DEBUG] [FML]: Injection complete
+[01:31:36] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[01:31:36] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[01:31:37] [main/DEBUG] [FML]: Read 1154 binary patches
+[01:31:37] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[01:31:38] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\} class transformers
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin CreativePatchingLoader
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class CreativePatchingLoader run successfully
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod KsyxisLegacyForge \{ru.vidtu.ksyxis.loaders.KsyxisLegacyForge\} class transformers
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for KsyxisLegacyForge \{ru.vidtu.ksyxis.loaders.KsyxisLegacyForge\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin KsyxisLegacyForge
+[01:31:38] [main/INFO] [Ksyxis]: Ksyxis: Booting... (platform: LegacyForge, manual: true)
+[01:31:38] [main/INFO] [Ksyxis]: Ksyxis: Found Mixin library. (version: 0.8.3)
+[01:31:38] [main/DEBUG] [Ksyxis]: Ksyxis: Mixin Bootstrap success.
+[01:31:38] [main/DEBUG] [Ksyxis]: Ksyxis: Mixin config added.
+[01:31:38] [main/DEBUG] [Ksyxis]: Ksyxis: Not providing compat with ModernFix, not found.
+java.lang.ClassNotFoundException: org.embeddedt.modernfix.core.ModernFixMixinPlugin
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:264) ~[?:1.8.0_432]
+	at ru.vidtu.ksyxis.Ksyxis.init(Ksyxis.java:132) [Ksyxis.class:1.3.2]
+	at ru.vidtu.ksyxis.loaders.KsyxisLegacyForge.injectData(KsyxisLegacyForge.java:65) [Ksyxis-1.3.2.jar:1.3.2]
+	at net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:151) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	... 15 more
+[01:31:38] [main/INFO] [Ksyxis]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class KsyxisLegacyForge run successfully
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod Let Me Despawn \{com.frikinjay.letmedespawn.core.CoreMod\} class transformers
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for Let Me Despawn \{com.frikinjay.letmedespawn.core.CoreMod\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin Let Me Despawn
+[01:31:38] [main/DEBUG] [mixin]: Checking for additional mixins for MixinEnvironment[PREINIT]
+[01:31:38] [main/INFO] [letmedespawn]: Found valid Mixin framework! Proceeding to load.
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class CoreMod run successfully
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\} class transformers
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ChunkTransformer
+[01:31:38] [main/DEBUG] [mixin]: Checking for additional mixins for MixinEnvironment[PREINIT]
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.AbstractClientPlayerTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.WorldClientTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerMPTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerSPTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.PlayerListTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.SaveFormatTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.GuiIngameForgeTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.MinecraftServerTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.GuiBossOverlayTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ModelRendererTransformer
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin XaeroMinimapPlugin
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class XaeroMinimapPlugin run successfully
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[01:31:38] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)]
+[01:31:38] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)]
+[01:31:38] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)]
+[01:31:38] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)]
+[01:31:38] [main/DEBUG] [mixin]: Registering mixin config: mixins.myserveriscompatible.json
+[01:31:38] [main/DEBUG] [mixin]: Creating FML remapper adapter: org.spongepowered.asm.bridge.RemapperAdapterFML
+[01:31:38] [main/DEBUG] [mixin]: Checking for additional mixins for MixinEnvironment[PREINIT]
+[01:31:38] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3e9803c2
+[01:31:38] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)]
+[01:31:38] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)]
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/forge-1.12.2-14.23.5.2859.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/BetterFps-1.4.8.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/ChunkAnimator-1.12.2-1.2.1.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/CreativeCore_v1.10.71_mc1.12.2.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/Ksyxis-1.3.2.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/letmedespawn-1.12.2-forge-1.0.2.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/llibrary-1.7.9-1.12.2.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/OptiFine_1.12.2_HD_U_E3.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning file:/workspaces/jennysmod/servidor_minecraft/./mods/Xaeros_Minimap_24.6.1_Forge_1.12.jar for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Scanning asmgen:/ for mixin tweaker
+[01:31:38] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:38] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:38] [main/DEBUG] [mixin]: inject() running with 2 agents
+[01:31:38] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)]
+[01:31:38] [main/DEBUG] [mixin]: FML agent is co-initiralising coremod instance SecurityCraftLoadingPlugin {[]} for ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod SecurityCraftLoadingPlugin \{net.geforcemods.securitycraft.SecurityCraftLoadingPlugin\} class transformers
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for SecurityCraftLoadingPlugin \{net.geforcemods.securitycraft.SecurityCraftLoadingPlugin\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin SecurityCraftLoadingPlugin
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class SecurityCraftLoadingPlugin run successfully
+[01:31:38] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar)]
+[01:31:38] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)]
+[01:31:38] [main/DEBUG] [mixin]: FML agent is co-initiralising coremod instance MSICCoreMod {[]} for ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod MSICCoreMod \{com.focamacho.myserveriscompatible.asm.MSICCoreMod\} class transformers
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for MSICCoreMod \{com.focamacho.myserveriscompatible.asm.MSICCoreMod\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin MSICCoreMod
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class MSICCoreMod run successfully
+[01:31:38] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/jennysmod/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar)]
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[01:31:38] [main/DEBUG] [BetterFps]: Loading Mappings...
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:31:38] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[01:31:38] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file ./mods/FastFurnace-1.12.2-1.3.1.jar!META-INF/fastfurnace_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file ./mods/FastWorkbench-1.12.2-1.7.4.jar!META-INF/fastbench_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 119 rules from AccessTransformer mod jar file ./mods/iChunUtil-1.12.2-7.2.2.jar!META-INF/iChunUtil_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 10 rules from AccessTransformer mod jar file ./mods/llibrary-1.7.9-1.12.2.jar!META-INF/llibrary_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file ./mods/Mantle-1.12-1.3.3.55.jar!META-INF/mantle_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file ./mods/jei_1.12.2-4.15.0.293.jar!META-INF/jei_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 21 rules from AccessTransformer mod jar file ./mods/twilightforest-1.12.2-3.11.1021-universal.jar!META-INF/tf_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 39 rules from AccessTransformer mod jar file ./mods/TConstruct-1.12.2-2.13.0.183.jar!META-INF/tconstruct_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 5 rules from AccessTransformer mod jar file ./mods/CosmeticArmorReworked-1.12.2-v5a.jar!META-INF/cosmeticarmorreworked_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 4 rules from AccessTransformer mod jar file ./mods/Waystones_1.12.2-4.1.0.jar!META-INF/waystones_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 32 rules from AccessTransformer mod jar file ./mods/[1.12.2] SecurityCraft v1.9.11.jar!META-INF/securitycraft_at.cfg
+
+[01:31:38] [main/DEBUG] [FML]: Loaded 15 rules from AccessTransformer mod jar file ./mods/Vampirism-1.12.2-1.6.2.jar!META-INF/vampirism_at.cfg
+
+[01:31:38] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #2
+[01:31:38] [main/DEBUG] [FML]: Validating minecraft
+[01:31:38] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[INIT]
+[01:31:38] [main/DEBUG] [FML]: Minecraft validated, launching...
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod LoadingPlugin \{lumien.chunkanimator.asm.LoadingPlugin\} class transformers
+[01:31:38] [main/TRACE] [FML]: Registering transformer lumien.chunkanimator.asm.ClassTransformer
+[01:31:38] [main/DEBUG] [ChunkAnimatorCore]: Starting Class Transformation
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for LoadingPlugin \{lumien.chunkanimator.asm.LoadingPlugin\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin LoadingPlugin
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class LoadingPlugin run successfully
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:38] [main/DEBUG] [FML]: Injecting coremod llibrary \{net.ilexiconn.llibrary.server.core.plugin.LLibraryPlugin\} class transformers
+[01:31:38] [main/TRACE] [FML]: Registering transformer net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+[01:31:38] [main/TRACE] [FML]: Registering transformer net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+[01:31:38] [main/INFO] [FML]: Found runtime patcher net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+[01:31:38] [main/DEBUG] [FML]: Injection complete
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin for llibrary \{net.ilexiconn.llibrary.server.core.plugin.LLibraryPlugin\}
+[01:31:38] [main/DEBUG] [FML]: Running coremod plugin llibrary
+[01:31:38] [main/DEBUG] [FML]: Coremod plugin class LLibraryPlugin run successfully
+[01:31:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:31:38] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:31:38] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:31:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[01:31:38] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #3
+[01:31:38] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[01:31:38] [main/INFO] [FML]: Patching class net/minecraft/server/MinecraftServer
+[01:31:38] [main/INFO] [FML]:    Patching method run()V
+[01:31:38] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[01:31:38] [main/DEBUG] [mixin]: Selecting config securitycraft.mixins.json
+[01:31:38] [main/DEBUG] [mixin]: Selecting config ksyxis.mixins.json
+[01:31:38] [main/DEBUG] [mixin]: Selecting config mixins.letmedespawn.json
+[01:31:38] [main/WARN] [mixin]: Reference map 'refmap.letmedespawn.json' for mixins.letmedespawn.json could not be read. If this is a development environment you can ignore this message
+[01:31:38] [main/DEBUG] [mixin]: Selecting config mixins.myserveriscompatible.json
+[01:31:38] [main/DEBUG] [mixin]: Preparing securitycraft.mixins.json (12)
+[01:31:38] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[01:31:38] [main/DEBUG] [mixin]: Rebuilding transformer delegation list:
+[01:31:38] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.ChunkTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.AbstractClientPlayerTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.WorldClientTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerMPTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerSPTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.PlayerListTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.SaveFormatTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.GuiIngameForgeTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.MinecraftServerTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.GuiBossOverlayTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.ModelRendererTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    guichaguri.betterfps.transformers.PatcherTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    guichaguri.betterfps.transformers.MathTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.lumien.chunkanimator.asm.ClassTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+[01:31:38] [main/DEBUG] [mixin]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[01:31:38] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[01:31:38] [main/DEBUG] [mixin]: Transformer delegation list created with 29 entries
+[01:31:38] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[01:31:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/player/EntityPlayerMP to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/EntityTrackerEntry to metadata cache
+[01:31:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/server/management/PlayerList to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/Teleporter to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/ContainerBrewingStand to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/item/ItemChorusFruit to metadata cache
+[01:31:39] [main/DEBUG] [mixin]: Preparing ksyxis.mixins.json (3)
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Applying ru.vidtu.ksyxis.mixins.LevelMixin to net.minecraft.world.World, class node does exist.
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.LevelMixin to net.minecraft.class_1150, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.class_1150' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.LevelMixin to net.minecraft.unmapped.C_5553933, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.unmapped.C_5553933' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[01:31:39] [main/INFO] [FML]: Patching class net/minecraft/server/MinecraftServer
+[01:31:39] [main/INFO] [FML]:    Patching method run()V
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Applying ru.vidtu.ksyxis.mixins.MinecraftServerMixin to net.minecraft.server.MinecraftServer, class node does exist.
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.MinecraftServerMixin to net.minecraft.src.C_4977_, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.src.C_4977_' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.ServerLevelMixin to net.minecraft.server.level.ServerLevel, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.server.level.ServerLevel' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.ServerLevelMixin to net.minecraft.server.world.ServerWorld, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.server.world.ServerWorld' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.ServerLevelMixin to net.minecraft.world.server.ServerWorld, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.world.server.ServerWorld' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.ServerLevelMixin to net.minecraft.class_3218, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.class_3218' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.ServerLevelMixin to net.minecraft.src.C_12_, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.src.C_12_' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.ServerLevelMixin to net.minecraft.unmapped.C_bdwnwhiu, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.unmapped.C_bdwnwhiu' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/DEBUG] [Ksyxis]: Ksyxis: Not applying ru.vidtu.ksyxis.mixins.ServerLevelMixin to net.minecraft.unmapped.C_3865296, class node was not found.
+java.lang.ClassNotFoundException: The specified class 'net.minecraft.unmapped.C_3865296' was not found
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:507) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:580) ~[%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at ru.vidtu.ksyxis.KsyxisPlugin.shouldApplyMixin(KsyxisPlugin.java:68) [KsyxisPlugin.class:1.3.2]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.shouldApplyMixin(PluginHandle.java:132) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.shouldApplyMixin(MixinInfo.java:980) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readDeclaredTargets(MixinInfo.java:945) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:874) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:839) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:764) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:518) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:443) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:419) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:287) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:227) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:195) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_432]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_432]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/World to metadata cache
+[01:31:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[01:31:39] [main/INFO] [FML]: Patching class net/minecraft/server/MinecraftServer
+[01:31:39] [main/INFO] [FML]:    Patching method run()V
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/server/MinecraftServer to metadata cache
+[01:31:39] [main/DEBUG] [mixin]: Preparing mixins.letmedespawn.json (1)
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/EntityLiving to metadata cache
+[01:31:39] [main/DEBUG] [mixin]: Preparing mixins.myserveriscompatible.json (1)
+[01:31:39] [main/DEBUG] [mixin]: Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[01:31:39] [main/DEBUG] [mixin]: Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[01:31:39] [main/DEBUG] [mixin]: Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[01:31:39] [main/DEBUG] [mixin]: Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[01:31:39] [main/DEBUG] [mixin]: Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[01:31:39] [main/DEBUG] [mixin]: Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/geforcemods/securitycraft/blockentities/RiftStabilizerBlockEntity$TeleportationType to metadata cache
+[01:31:39] [main/DEBUG] [mixin]: Prepared 9 mixins in 0.316 sec (35.1ms avg) (4ms load, 206ms transform, 0ms plugin)
+[01:31:39] [main/DEBUG] [mixin]: Mixing MinecraftServerMixin from ksyxis.mixins.json into net.minecraft.server.MinecraftServer
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/AssertionError to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/Error to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/Throwable to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/io/Serializable to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/Integer to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/Number to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/Comparable to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for org/apache/logging/log4j/Logger to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for ru/vidtu/ksyxis/Ksyxis to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for org/apache/logging/log4j/LogManager to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/command/ICommandSender to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/IThreadListener to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for xaero/common/server/IMinecraftServer to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/profiler/ISnooperInfo to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/Runnable to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfo to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/StartupQuery$AbortedException to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/RuntimeException to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/Exception to metadata cache
+[01:31:39] [main/DEBUG] [mixin]: Mixing LevelMixin from ksyxis.mixins.json into net.minecraft.world.World
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/lang/Boolean to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/capabilities/ICapabilityProvider to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/IBlockAccess to metadata cache
+[01:31:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[01:31:39] [main/DEBUG] [mixin]: Mixing camera.PlayerListMixin from securitycraft.mixins.json into net.minecraft.server.management.PlayerList
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/geforcemods/securitycraft/util/PlayerUtils to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/geforcemods/securitycraft/entity/camera/SecurityCamera to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/NetHandlerPlayServer to metadata cache
+[01:31:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/player/EntityPlayer to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/Packet to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/nbt/NBTTagCompound to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for java/util/Iterator to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/nbt/NBTBase to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/server/management/DemoPlayerInteractionManager to metadata cache
+[01:31:39] [main/TRACE] [mixin]: Added class metadata for net/minecraft/server/management/PlayerInteractionManager to metadata cache
+[01:31:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[01:31:39] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:31:39] [main/WARN] [net.minecraft.server.ServerEula]: Failed to load eula.txt
+[01:31:39] [main/INFO] [net.minecraft.server.MinecraftServer]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
