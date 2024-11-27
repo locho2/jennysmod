@@ -1,11 +1,11 @@
 JVM info: Microsoft - 21.0.4 - 21.0.4+7-LTS
 java.net.preferIPv4Stack=true
-Current Time: 24/11/2024 20:47:43
-Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
-Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
-Host: libraries.minecraft.net [13.107.246.41]
-Host: launchermeta.mojang.com [13.107.246.41]
-Host: piston-meta.mojang.com [13.107.246.41]
+Current Time: 27/11/2024 01:37:48
+Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Host: libraries.minecraft.net [13.107.253.41]
+Host: launchermeta.mojang.com [13.107.253.41]
+Host: piston-meta.mojang.com [13.107.253.41]
 Host: sessionserver.mojang.com [13.107.246.41]
 Host: authserver.mojang.com [Unknown]
 Target Directory: .
@@ -16,8 +16,8 @@ Considering minecraft server jar
     Download completed: Checksum validated.
 Downloading libraries
 Found 0 additional library directories
-Considering library net.minecraftforge:forge:1.12.2-14.23.5.2859
-  Extracting library from /maven/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859.jar
+Considering library net.minecraftforge:forge:1.12.2-14.23.5.2860
+  Extracting library from /maven/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar
     Extraction completed: Checksum validated.
 Considering library org.ow2.asm:asm-debug-all:5.2
   Downloading library from https://maven.minecraftforge.net/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar
@@ -81,9 +81,6 @@ Considering library org.apache.logging.log4j:log4j-api:2.15.0
     Download completed: Checksum validated.
 Considering library org.apache.logging.log4j:log4j-core:2.15.0
   Downloading library from https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar
-    Download completed: Checksum validated.
-Considering library org.apache.logging.log4j:log4j-slf4j18-impl:2.15.0
-  Downloading library from https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar
     Download completed: Checksum validated.
 Building Processors
 The server installed successfully
