@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "4aab0dcb-e5cb-32fa-bbbb-39e5e762c2e5",
+    "name": "lochoteo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
