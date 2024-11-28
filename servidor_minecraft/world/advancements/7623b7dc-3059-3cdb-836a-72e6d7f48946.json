@@ -49,7 +49,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2024-11-27 23:52:16 +0000"
+      "skeleton": "2024-11-27 23:52:16 +0000",
+      "zombie": "2024-11-28 00:05:59 +0000"
     },
     "done": false
   },
@@ -104,7 +105,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-11-27 23:46:11 +0000",
-      "plains": "2024-11-27 23:37:41 +0000"
+      "plains": "2024-11-27 23:37:41 +0000",
+      "taiga": "2024-11-28 00:06:03 +0000"
     },
     "done": false
   },
