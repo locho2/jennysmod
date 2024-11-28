@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-11-28 00:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-11-27 23:52:31 +0000"
@@ -53,9 +59,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-11-28 00:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-11-27 02:00:42 +0000",
+      "forest_hills": "2024-11-28 00:09:59 +0000",
       "plains": "2024-11-27 01:57:07 +0000",
       "taiga": "2024-11-27 02:01:18 +0000"
     },
@@ -157,6 +170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-11-28 00:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-11-27 23:41:38 +0000"
@@ -172,6 +191,12 @@
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2024-11-28 00:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-11-28 00:09:12 +0000"
     },
     "done": true
   },
@@ -217,9 +242,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-11-28 00:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2024-11-27 23:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-11-28 00:10:00 +0000"
     },
     "done": true
   },
@@ -242,6 +279,12 @@
       "enderman": "2024-11-27 23:46:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-28 00:08:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
@@ -279,6 +322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-11-28 00:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-11-27 23:56:29 +0000"
@@ -312,6 +361,12 @@
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2024-11-27 01:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-11-28 00:09:12 +0000"
     },
     "done": true
   }

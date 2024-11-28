@@ -38,3 +38,50 @@
 [00:05:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> OOO
 [00:06:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> donde
 [00:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> sisi
+[00:07:20] [Server thread/WARN] [FML]: Dynamic Trees loaded a new chunk [-28, 8] in dimension 0 (overworld) while populating chunk [-28, 9], causing cascading worldgen lag.
+[00:07:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:07:20] [Server thread/WARN] [FML]: Dynamic Trees loaded a new chunk [-28, 7] in dimension 0 (overworld) while populating chunk [-28, 9], causing cascading worldgen lag.
+[00:07:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[00:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was shot by Skeleton
+[00:08:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> buscando
+[00:08:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> si
+[00:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> estoy en la casa esa
+[00:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> uyt
+[00:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> me encontre una jenny
+[00:10:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> o esta webada da risa XDD
+[00:11:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> tranqui bro
+[00:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> te espero
+[00:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zmesskiii> pera no puedo moverme tengo la mano ocupada
+[00:12:31] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:773) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoSuchMethodError: com.schnurritv.sexmod.girls.ellie.EllieEntity.func_180426_a(DDDFFIZ)V
+	at com.schnurritv.sexmod.girls.ellie.EllieEntity.func_70619_bc(EllieEntity.java:68) ~[EllieEntity.class:?]
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:769) ~[vq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359) ~[vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) ~[vq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) ~[vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) ~[vq.class:?]
+	at com.schnurritv.sexmod.girls.GirlEntity.func_70071_h_(GirlEntity.java:294) ~[GirlEntity.class:?]
+	at com.schnurritv.sexmod.girls.ellie.EllieEntity.func_70071_h_(EllieEntity.java:166) ~[EllieEntity.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) ~[oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) ~[amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) ~[oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) ~[MinecraftServer.class:?]
+	... 4 more
+[00:12:31] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/jennysmod/servidor_minecraft/./crash-reports/crash-2024-11-28_00.12.31-server.txt
+[00:12:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:12:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:12:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:12:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:12:31] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:12:31] [Server thread/INFO] [FML]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[00:12:31] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:12:31] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
