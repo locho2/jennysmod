@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/redstone/wooden_button": {
-    "criteria": {
-      "has_planks": "2024-11-30 01:42:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-11-30 01:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 01:42:45 +0000"
     },
     "done": true
   },
@@ -46,6 +46,18 @@
       "has_cobblestone": "2024-11-30 01:43:44 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2024-11-30 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2024-11-30 01:44:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
@@ -91,6 +103,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-11-30 01:45:28 +0000",
       "plains": "2024-11-30 01:40:31 +0000"
     },
     "done": false
@@ -131,6 +144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-30 01:44:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-11-30 01:43:44 +0000"
@@ -155,15 +174,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/fence_gate": {
-    "criteria": {
-      "has_planks": "2024-11-30 01:42:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-11-30 01:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 01:42:45 +0000"
     },
     "done": true
   },
@@ -173,15 +192,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2024-11-30 01:43:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2024-11-30 01:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-11-30 01:43:56 +0000"
     },
     "done": true
   },
@@ -215,15 +234,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "entered_water": "2024-11-30 01:43:32 +0000"
+      "killed_something": "2024-11-30 01:44:44 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-11-30 01:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-11-30 01:43:32 +0000"
     },
     "done": true
   },
