@@ -1371,3 +1371,73 @@ Alternatively start the server with -Dfml.queryResult=confirm or -Dfml.queryResu
 [02:29:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [02:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Set lochoteo's spawn point to (-846, 67, 93)]
 [02:30:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Set own game mode to Creative Mode]
+[02:30:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Set own game mode to Survival Mode]
+[02:31:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo has made the advancement [Acquire Hardware]
+[02:31:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was incinerated by a dragon
+[02:36:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2116ms behind, skipping 42 tick(s)
+[02:37:26] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.advancements.PlayerAdvancements.func_194220_a(PlayerAdvancements.java:360) ~[np.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_194027_a(NetHandlerPlayServer.java:447) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketSeenAdvancements.func_148833_a(SourceFile:50) ~[lu.class:?]
+	at net.minecraft.network.play.client.CPacketSeenAdvancements.func_148833_a(SourceFile:11) ~[lu.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[02:37:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was turned into KFC by a dragon
+[02:38:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ElmasPingom moved too quickly! -3.3841720655464087,0.9769118908984495,9.71988057864246
+[02:38:38] [Server thread/WARN] [vampirism]: [TileTotem]Freshly generated totem cannot find village
+[02:39:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lochoteo moved wrongly!
+[02:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by Fire Dragon
+[02:41:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[02:42:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by Spider
+[02:42:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Teleported lochoteo to -1105.5, 73.5, 227.5]
+[02:45:59] [Server thread/WARN] [FML]: Vampirism loaded a new chunk [-32, 58] in dimension 0 (overworld) while populating chunk [-31, 59], causing cascading worldgen lag.
+[02:45:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:46:15] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[02:46:15] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[02:46:15] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[02:46:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lochoteo moved too quickly! -10.263494983953024,0.24918707874468282,-1.3210619149399463
+[02:46:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2132ms behind, skipping 42 tick(s)
+[02:46:43] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-106, 9] in dimension 0 (overworld) while populating chunk [-105, 10], causing cascading worldgen lag.
+[02:46:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:46:43] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-106, 8] in dimension 0 (overworld) while populating chunk [-105, 10], causing cascading worldgen lag.
+[02:46:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by Vampire
+[02:47:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Teleported lochoteo to -1469.5, 63.5, 303.5]
+[02:47:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:47:15] [Server thread/WARN] [FML]: SchnurriTV's Sexmod loaded a new chunk [-94, -1] in dimension 0 (overworld) while populating chunk [-95, -2], causing cascading worldgen lag.
+[02:47:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:47:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by Vampire
+[02:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Teleported lochoteo to -1019.5, 79.5, 153.5]
+[02:47:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Teleported lochoteo to -1480.5, 62.5, 307.5]
+[02:49:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:49:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by Hydra
+[02:49:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Teleported lochoteo to -1273.5, 62.5, 130.5]
+[02:49:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:49:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by Hydra
+[02:49:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Teleported lochoteo to -1273.5, 62.5, 130.5]
+[02:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by Hydra
+[02:49:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lochoteo: Teleported lochoteo to -1275.5, 62.5, 128.5]
+[02:49:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by Hydra
+[02:50:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lochoteo was kicked for floating too long!
+[02:50:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lochoteo lost connection: Flying is not enabled on this server
+[02:50:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo left the game
