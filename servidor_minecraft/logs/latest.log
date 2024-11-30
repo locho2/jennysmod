@@ -864,3 +864,11 @@ Alternatively start the server with -Dfml.queryResult=confirm or -Dfml.queryResu
 [01:59:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zmesskiii lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
 [01:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zmesskiii left the game
 [02:00:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:04:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo is bleeding...
+[02:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo was slain by The nightmarish Krab
+[02:07:05] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[02:07:05] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[02:07:05] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[02:09:04] [Server thread/WARN] [FML]: Vampirism loaded a new chunk [-22, 4] in dimension 0 (overworld) while populating chunk [-21, 4], causing cascading worldgen lag.
+[02:09:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo has made the advancement [Sweet dreams]
