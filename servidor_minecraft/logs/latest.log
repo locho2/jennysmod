@@ -872,3 +872,38 @@ Alternatively start the server with -Dfml.queryResult=confirm or -Dfml.queryResu
 [02:09:04] [Server thread/WARN] [FML]: Vampirism loaded a new chunk [-22, 4] in dimension 0 (overworld) while populating chunk [-21, 4], causing cascading worldgen lag.
 [02:09:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [02:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo has made the advancement [Sweet dreams]
+[02:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lochoteo has made the advancement [Vampire Forest]
+[02:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom is bleeding...
+[02:11:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom was crushed by a falling tree
+[02:13:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom has made the advancement [Vampire Forest]
+[02:14:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ElmasPingom moved too quickly! -8.23027386076376,-3.0,5.0344915889583035
+[02:14:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2778ms behind, skipping 55 tick(s)
+[02:16:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ElmasPingom lost connection: Disconnected
+[02:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom left the game
+[02:18:13] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[02:18:13] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,mowziesmobs@1.5.8,disenchanter@1.8,hats@7.1.1,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,jei@4.15.0.293,ksyxis@1.3.2,sexmod@1.0,mantle@1.12-1.3.3.55,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,fastbench@1.7.4,securitycraft@v1.9.11,storagedrawers@5.5.2,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,FML@8.0.99.99,bookshelf@2.3.590,conarm@1.2.5.10,llibrary@1.7.9,fastfurnace@1.3.1,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2859,cosmeticarmorreworked@1.12.2-v5a,letmedespawn@1.0,twilightforest@3.11.1021,dynamictrees@1.12.2-0.9.29,geckolib3@1.0,playerrevive@1.0,eplus@5.0.176,morph@7.2.0
+[02:18:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:18:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ElmasPingom[/100.83.137.110:55373] logged in with entity id 42199 at (-177.1502059684323, 61.0, 377.48777632536667)
+[02:18:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom joined the game
+[02:18:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ElmasPingom'/42199, l='world', x=-177.15, y=61.00, z=377.49] connected. Sending ping
+[02:18:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom is bleeding...
+[02:18:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ElmasPingom lost connection: Disconnected
+[02:18:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom left the game
+[02:18:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom drowned
+[02:18:50] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:18:50] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,mowziesmobs@1.5.8,disenchanter@1.8,hats@7.1.1,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,jei@4.15.0.293,ksyxis@1.3.2,sexmod@1.0,mantle@1.12-1.3.3.55,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,fastbench@1.7.4,securitycraft@v1.9.11,storagedrawers@5.5.2,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,FML@8.0.99.99,bookshelf@2.3.590,conarm@1.2.5.10,llibrary@1.7.9,fastfurnace@1.3.1,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2859,cosmeticarmorreworked@1.12.2-v5a,letmedespawn@1.0,twilightforest@3.11.1021,dynamictrees@1.12.2-0.9.29,geckolib3@1.0,playerrevive@1.0,eplus@5.0.176,morph@7.2.0
+[02:18:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:18:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ElmasPingom[/100.83.137.110:55397] logged in with entity id 44013 at (-171.2365256135425, 61.0, 380.74773905532646)
+[02:18:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom joined the game
+[02:18:52] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ElmasPingom'/44013, l='world', x=-171.24, y=61.00, z=380.75] connected. Sending ping
+[02:18:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:19:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom is bleeding...
+[02:19:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom was slain by Fire Dragon
+[02:19:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom is bleeding...
+[02:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom was turned into KFC by a dragon
+[02:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom is bleeding...
+[02:19:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom was incinerated by a dragon
+[02:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom is bleeding...
+[02:20:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom was slain by Fire Dragon
+[02:20:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom is bleeding...
+[02:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElmasPingom was incinerated by a dragon
